@@ -1,0 +1,23 @@
+# Java
+*.class
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# STS / Eclipse
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+
+# Environment and secrets
+.env
+application-local.properties
